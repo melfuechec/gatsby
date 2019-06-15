@@ -11,8 +11,8 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: "Gatsby Tutorial",
-    author: "Mel Fuechec"
+    title: "Dr. Words",
+    author: "Kristie Denlinger"
   },
   plugins: [
     'gatsby-plugin-react-helmet',

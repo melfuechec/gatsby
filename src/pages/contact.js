@@ -7,11 +7,10 @@ const ContactPage = () => {
         <Layout>
         <Head title="Contact"/>
             <title>Contact me!</title>
-            <p>mel.fuechec@gmail.com</p>
-            <p>979-541-6701</p>
-            <p><a href='https://www.facebook.com/mel.fuechec' target='_blank'>facebook</a></p>
-            <p><a href='https://www.linkedin.com/in/mel-fuechec/'>linkedin</a></p>
-            <p><a href='https://github.com/melfuechec'>github</a></p>
+            <p>email</p>
+            <p>phone number</p>
+            <p><a href='https://www.facebook.com/kristie.denlinger' target='_blank'>Facebook</a></p>
+            <p><a href='https://www.instagram.com/kdenlin/' target='_blank'>Instagram</a></p>
         </Layout>
     )
 }
