@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'gatsby';
 import Layout from '../components/Layout'
 import Head from '../components/Head'
-import booboo from "./boo-boo.png"
+import { booboo } from "./boo-boo.png"
 
 const AboutPage = () => {
     return (
